@@ -52,7 +52,7 @@ pip install pgmpy pyvis torch scikit-learn pandas numpy matplotlib seaborn netwo
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/depression-pgm.git
+git clone https://github.com/Shakib1633/Student_Depression_Analysis_using_Probabilistic_Models.git
 cd depression-pgm
 ```
 
