@@ -10,8 +10,7 @@ A comparative study of four probabilistic models for classifying student depress
 |---|---|---|
 | Bayesian Network (BN) | Directed graphical model | `pgmpy` |
 | Markov Random Field (MRF) | Undirected graphical model | `pgmpy` |
-| Tree Augmented Naive Bayes (TAN) | Directed graphical model | `pgmpy` |
-| Naive Bayes | Probabilistic classifier | `scikit-learn` |
+| Categorical Naive Bayes | Probabilistic classifier | `scikit-learn` |
 | Variational Autoencoder (VAE) | Deep generative model | `PyTorch` |
 
 ---
