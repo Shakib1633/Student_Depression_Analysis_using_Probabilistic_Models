@@ -1,4 +1,4 @@
-# Student_Depression_Analysis_using_Probabilistic_Models
+# Student_Depression_Analysis_using_Probabilistic_Graphical_Models
 
 A comparative study of four probabilistic models for classifying student depression using the **Student Depression Dataset**. Built as part of a Probabilistic Graphical Models (PGM) course project.
 
